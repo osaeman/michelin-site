@@ -36,7 +36,7 @@ body {
   width: 100%;
   border-bottom: 1px solid lightgray;
   height: 130px;
-  background: white;
+  background: yellow;
   position: relative;
 }
 .navbar-inner-container {
