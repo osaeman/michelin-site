@@ -36,7 +36,7 @@ body {
   width: 100%;
   border-bottom: 1px solid lightgray;
   height: 130px;
-  background: yellow;
+  background: white;
   position: relative;
 }
 .navbar-inner-container {
@@ -946,7 +946,7 @@ body {
 .advert-section {
   background: #27509b;
   width: 90%;
-  min-height: 200px;
+  height: 200px;
   margin-top: 70px;
   margin-bottom: 70px;
 }
