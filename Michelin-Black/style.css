@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Michelin';
+    src: local('Michelin Black'), local('Michelin-Black'),
+        url('Michelin-Black.woff2') format('woff2'),
+        url('Michelin-Black.woff') format('woff'),
+        url('Michelin-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
